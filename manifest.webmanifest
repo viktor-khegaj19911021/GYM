@@ -1,0 +1,17 @@
+{
+  "name": "Дневник зала",
+  "short_name": "Зал",
+  "description": "Тренировки, календарь посещений, рост и вес, нагрузка на мышцы",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#E8ECEE",
+  "theme_color": "#E8ECEE",
+  "lang": "ru",
+  "icons": [
+    {"src":"./icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"./icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"},
+    {"src":"./icon-512.png","sizes":"512x512","type":"image/png","purpose":"maskable"}
+  ]
+}
